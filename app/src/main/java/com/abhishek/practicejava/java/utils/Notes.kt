@@ -25,7 +25,7 @@ package com.abhishek.practicejava.java.utils
  * 2: Order of appearence may or may not be maintained.
  * 3: Subsets and subsequence ae exactly same thing the only difference between
  * them is that subsequence should maintain order of appearence of elements
- * while subsets don't need to preserve order of appearence of elements
+ * while subsets don't need to preserve order of appeare nce of elements
  * for ex : {1,2} and {2,1} represent the same subset however while
  * writing/listing the subsets of the sets you can either write {1,2} or {2,1}
  * it doesnot matter but you can not list both at the same time

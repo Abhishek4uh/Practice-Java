@@ -10,7 +10,7 @@ public class SortAStackWithRecursion {
         stack.push(3);
         stack.push(4);
         System.out.println(stack);
-        Integer top =stack.pop();               //This remove and return the top element
+        Integer top1 =stack.pop();               //This remove and return the top element
         Integer top2 =stack.peek();             //Thi only return the top element
         System.out.println(stack.isEmpty());    //Check if stack is empty
         for (int i = 0; i < stack.size(); i++) {
