@@ -21,7 +21,7 @@ package com.abhishek.practicejava.java.utils
  * total i.e ((2^n)-1) non-empty sub-sequences + 1 Empty Subsequence.
  *
  * Subset:
- * 1 : May or maynot be contiguous
+ * 1 : May or may not be contiguous
  * 2: Order of appearence may or may not be maintained.
  * 3: Subsets and subsequence ae exactly same thing the only difference between
  * them is that subsequence should maintain order of appearence of elements
